@@ -3,6 +3,7 @@
 
 >以下简称为“RML”
 >RML是一个**简洁的我的世界启动器。** 
+交流群：939571490
 
 [请点击这里下载最新版本的构建](https://github.com/win81pro/3R60-Minecraft-Launcher/releases)
 
